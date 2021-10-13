@@ -15,5 +15,8 @@
 
 ![](https://raw.githubusercontent.com/St1v3n3223/Arduino/main/Captura%20de%20pantalla%20de%202021-10-13%2013-08-26.png)
 
-### Poner nuestro nombre en codigo morse
+### Poner nuestro nombre en codigo morseç
+
+### Me llamo Stiven pero he puesto Sti porque me gusta
+
 ![CODIGO MORSE](https://github.com/St1v3n3223/Arduino/blob/main/MORSE_3_-_STIVEN.ino)
