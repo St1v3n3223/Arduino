@@ -9,3 +9,4 @@
 ![Primera prueba](https://github.com/St1v3n3223/Arduino/blob/main/Primera%20prueba.md)
 
 
+![Arquitectura de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md)
