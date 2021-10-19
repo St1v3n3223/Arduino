@@ -18,5 +18,34 @@
 ### Poner nuestro nombre en codigo morse
 
 ### Me llamo Stiven pero he puesto Sti porque me gusta mas.
+# Arduino
+ARDUINO
+
+[enlace](https://github.com/d-prieto?tab=repositories)
+
+-Primera prueba.md
+Programa de ejemplo BLINK.INO
+error en arduino:
+Ha ocurrido un error mientras se enviaba el sketch
+avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
+los errores arduino IDE :
+COMPILAR: 
+Traducir a codigo maquina 
+-83 5e FF o A 38
+
+enviar:
+ABRIR PUERTO 
+-enviar el compilado 
+-Revisarla 
+CERRAR PUERTO 
+
+
+
+
+## Revisar
+Componentes
+  
+Electricos
+ 
 
 ![CODIGO MORSE](https://github.com/St1v3n3223/Arduino/blob/main/MORSE_3_-_STIVEN.ino)
