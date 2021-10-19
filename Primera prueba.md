@@ -50,6 +50,7 @@ Electricos
 -morse-   hicimos modificaciones en el codigo  para cambiar el trengo hilo.para eso hicimos cables en dos lineas de lay(-)
 
 
- 
+
+
 
 ![CODIGO MORSE](https://github.com/St1v3n3223/Arduino/blob/main/MORSE_3_-_STIVEN.ino)
