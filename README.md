@@ -3,9 +3,9 @@
 
 ## Estos són mis enlaçes.
 
-retraso en las conunicaiones
+![Circuitos](https://github.com/St1v3n3223/Arduino/blob/main/Circuitos)
 
 
-Conectamos EL arduino por usb cargamos el programa blink.ino archivo-ejemplos-basics-blink-captura
+![Primera prueba](https://github.com/St1v3n3223/Arduino/blob/main/Primera%20prueba.md)
 
 
