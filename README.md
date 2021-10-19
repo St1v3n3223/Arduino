@@ -6,3 +6,6 @@
 retraso en las conunicaiones
 
 
+Conectamos EL arduino por usb cargamos el programa blink.ino archivo-ejemplos-basics-blink-captura
+
+
