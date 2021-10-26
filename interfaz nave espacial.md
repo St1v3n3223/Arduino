@@ -1,7 +1,7 @@
 # Interfaz de nave espacial
 
 ## Resumen
-
+El LED verde permanecera encendido hasta que pulses un botón.Cuando el Arduino reciba una señal del botón,la luz verde se apagara y las otras 2 luces empezarán a parpadear.
 
 ## Introducción teórica
 
