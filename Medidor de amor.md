@@ -49,3 +49,5 @@ Escribir Número (pinNumber)
 Foto - Video - Funciona o no -
 
 ### Variaciones
+
+
