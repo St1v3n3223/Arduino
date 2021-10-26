@@ -55,10 +55,10 @@ Vamos a añadir un boton al pin 3 de tal forma que solo cuando se pulse el lñed
 
 Antes Led 220
 
-Pin 3 ----LED/--www--GND
+Pin 3 ----LED/--220--GND
 
 
 Despues
 
-Pin 3 -----LED/--   --www---GND
+Pin 3 ----LED/--Boton--220--GND
 
