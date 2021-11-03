@@ -51,4 +51,29 @@ dw (3,LOW );
 DW (4,LOW );
   
 
-Para poner un LED necesitamos una resistencia de 220 ohmnios  los de cuerp azul hay que tener en cuenta la polaridad del LED la pata mas corta va gacia el GND (0v) y la larga hacia el voltaje
+
+## Conectar dos botones 
+
+-Ejercicio 
+Vamos a conectar 2 botones y 2 leds 
+ 
+Haremos diferentes programas con diferentes comportamientos 
+
+Para poner un boton necesitamos una resistencia de 10.000 Ohmios. Estas son las que tienen cuerpo BEIGE y una linia naranja.
+
+Esquema de boton " Por defecto arriba o "pulled -HIGH "
+
+Conectaremos 2 botones .UNO al Pin 2 , Pin 3 
+
+Para poner un Led necesitamos una resistencia de 220 OHMIOS las de cuerpo azul.
+
+Hay que tener en cuenta la polaridad del led.
+
+La pata mas corta va hacia el GND ( o 0 V ) y la larga hacia el Voltaje.
+
+Pin -----> led ----> 220 OHMNIOS --- GND 
+
+Da igual si la resistencia va detras o delante del led.
+
+Conectaremos 2 leds . Uno al Pin 4 y otro al Pin 5.
+
