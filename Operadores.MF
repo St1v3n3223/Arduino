@@ -1,1 +1,18 @@
 
+
+Y O NO
+
+IF (condicion) ---- SI (True) ------No (FALSE) VARIABLE VALOR
+OUTPUT ---> Stiven activate
+
+if (temperature <= baselinetemp) }
+
+TEMPERATURA ( 15 C - 80 C)
+
+Sensorvalue (0 - 1.024)
+
+### Digitalwriter
+
+Es una funcion que nos pide un numero de pin y el valor high(1) o low (0) si el valor es high la placa suministrara 5 voltios en ese pin
+si el valor es es LOW suministrara 0v en ese pin.
+Si hay 5v,se activaran los circuitos Si es 0v no se activara.
