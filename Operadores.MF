@@ -1,18 +1,54 @@
 
 
-Y O NO
+# Operaciones 
 
-IF (condicion) ---- SI (True) ------No (FALSE) VARIABLE VALOR
+Y
+O
+NO
+
+IF (condicion) ---- SI (True) ------No (FALSE)
+    VARIABLE   VALOR          
 OUTPUT ---> Stiven activate
 
-if (temperature <= baselinetemp) }
+if (temperature <= baselinetemp)
+}
 
 TEMPERATURA ( 15 C - 80 C)
 
 Sensorvalue (0 - 1.024)
 
-### Digitalwriter
 
-Es una funcion que nos pide un numero de pin y el valor high(1) o low (0) si el valor es high la placa suministrara 5 voltios en ese pin
-si el valor es es LOW suministrara 0v en ese pin.
-Si hay 5v,se activaran los circuitos Si es 0v no se activara.
+
+Leer PIN A0
+    Analog read ---> 0 - 1023 (8 bytes ) 
+
+Transforma los valores :
+          Y, de Regalo , las pinta en pantalla.
+         
+ -Decidir:
+  T < 20 
+  
+  DigitalWrite = Es una función que nos pide un numero de pin y el valor HIGH ( 1 ) o LOW (0)
+  
+  si el valor es HIGH la placa suministrara 5 voltios en ese pin 
+  
+  si el valor es LOW la placa suministrara 0 voltios en ese Pin.
+  
+  Si hay 5 V se activaran dos circuitos si es 0 V no se activaran.
+  
+  ejemplo:
+   
+ DigitalWrite ( 4 ; LOW ); o digitalWrite (4,0); se desactivaran los numeros de los pines 
+  
+ Si es high se activaran 5 V A los numeros de los pines.
+  
+  
+  
+} Else if (temperature >= baselineTemp +2 && temperature < baselineTemp +4){
+
+DW ( 2 , HIGH );
+dw (3,LOW );
+DW (4,LOW );
+  
+
+
