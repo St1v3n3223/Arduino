@@ -50,3 +50,16 @@ O-0% De voltaje
 
 255- 100% de voltaje(5V)
 
+INT - integer(numero entero) significa que nuestra variable es un tipo de dato numerico no decimal
+
+Le asigna un espacio en memoria.
+
+·Sting- Cadena de caracteres
+
+·Bool-booleano yes verdadero o falso
+
+·char- 1 unico caracter
+
+·float-numeros decimales
+
+
