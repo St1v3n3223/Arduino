@@ -67,3 +67,5 @@ Le asigna un espacio en memoria.
 
 Es el mismo circuito que hicimos el dia anterior con ciertas variaciones para poder ajustar el color y hemos hecho el codigo sin ningun error
 ```
+```
+En este circuito envez de potenciadpres hemos puesto botones para potenciar los colores.
