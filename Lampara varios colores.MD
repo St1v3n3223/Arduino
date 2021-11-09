@@ -17,10 +17,7 @@ A un voltaje de 5V o de 3'3V
 
 Con 5V el LED brillara más y con 3'3V brillara menos
 
-
-```
-```
-## Pulsos
+## Pulso.
 
 Es una señal eléctrica.
 
@@ -64,7 +61,7 @@ Le asigna un espacio en memoria.
 ```
 ### Codigo
 
-[Codigo](https://github.com/Hanzla55/Arduino/blob/main/Lampara_de_varios_colores.ino)
+[Codigo](https://github.com/Hanzla55/Arduino/blob/main/Lampara_de_varios_colores.ino) se lo cogi a mi compañero Hamzla
 
 ![](https://github.com/St1v3n3223/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-09%2012-05-19.png?raw=true)
 
@@ -72,7 +69,7 @@ Le asigna un espacio en memoria.
 Es el mismo circuito que hicimos el dia anterior con ciertas variaciones para poder ajustar el color y hemos hecho el codigo sin ningun error
 
 ```
-En este circuito en vez de potenciadpres hemos puesto botones para potenciar los colores.
+En este circuito en vez de potenciadores hemos puesto botones para potenciar los colores y camviado algunos cables.
 
 ```
 
