@@ -71,4 +71,6 @@ Es el mismo circuito que hicimos el dia anterior con ciertas variaciones para po
 ```
 En este circuito en vez de potenciadpres hemos puesto botones para potenciar los colores.
 
+```
+
 ![](https://github.com/St1v3n3223/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-09%2013-53-42.png)
