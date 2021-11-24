@@ -23,3 +23,5 @@
 [Interfaz de nave](https://github.com/St1v3n3223/Arduino/blob/main/interfaz%20nave%20espacial.md)
 
 [Thererin optico](https://github.com/St1v3n3223/Arduino/blob/main/Thererin%20optico.MD)
+
+[Repositorio chichiliaa](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
