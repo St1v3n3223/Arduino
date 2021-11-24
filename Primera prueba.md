@@ -55,5 +55,72 @@ Electricos
 
 ![](https://github.com/St1v3n3223/Arduino/blob/main/MORSE_3_-_STIVEN.ino)
 
+## Errores
+
+El bug es un problema en un programa de un ordenador o software que desencadena un resultado no esperado.
+
+Un glitch es un tipo de bug pero gráfico.
+
+Errores : Está en Runtime Error, Compiling Error
+
+Excepción: Ejemplos Java, Python, Ada.
+
+## Como programar
+
+- Primero tenemos el Arduino IDE instalado.
+
+- Tenemos un usuario con permisos.
+
+- Conectamos el Arduino por USB.
+
+- Cargamos el programa Blink.ino, Archivo --> Ejemplos --> 1. Basics --> Blink
+
+- Pulsamos el botón subir (->) 
+ 
+ Errores posibles --> Si no hay puerto --> Herramientas --> Puerto
+ 
+ Error --> Port busy --> Esperar 1 min aprox sin desenchufar el Arduino
+ 
+ *Conseguimos programar el Blink.ino*
+ 
+ 1. Buscarlo en Internet
+ 
+ 2. Subirlo Nosotros
+
+ 3. Enlazar en primeras pruebas.md
+
+Después de blink.ino iniciamos pruebas en código morse
+
+Morse 1 --> Hicimos modificaciones en el código para cambiar el tiempo de brillo. Para eso hicimos cambios en de lineas de delay (_);
+
+# Que hace Blink.ino
+
+void loop () {
+
+Cuatro sentencias ( o líneas)
+
+}
+
+- digitalWrite(LED_BUILTIN, HIGH);
+
+- delay (1000)
+
+- digitalWrite(LED_BUILTIN, LOW);
+
+- delay (1000)
+
+delay (_) --> nos pide un número, ese número será los milisegundos de espera
+
+1000 --> 1 segundo
+
+60000 --> 1 minuto
+
+500 --> medio segundo
+
+50 = 0,05 s --> el ojo humano no lo ve
+
+- Hicimos un pulso largo y un pulso corto
+
+Pulso largo de 200 500 y pulso corto de 100 300
 
 
