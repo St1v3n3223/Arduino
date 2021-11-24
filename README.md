@@ -17,3 +17,7 @@
 
 
 ![Medidor de amor](https://github.com/St1v3n3223/Arduino/blob/main/Medidor%20de%20amor.md)
+
+[Lampara varioscolores](https://github.com/St1v3n3223/Arduino/blob/main/Lampara%20varios%20colores.MD)
+
+[Interfaz de nave](https://github.com/St1v3n3223/Arduino/blob/main/interfaz%20nave%20espacial.md)
