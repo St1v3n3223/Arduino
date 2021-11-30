@@ -26,6 +26,6 @@ con una resistencia de 10 kilo ohmios.
 
 ### Circuito
 
-![]()
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/a423d9fa7b8fb012ae0970983924281152065f7b/Captura%20de%20pantalla%20de%202021-11-30%2010-44-08.png)
 
 ---
