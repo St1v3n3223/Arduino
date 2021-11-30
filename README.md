@@ -26,3 +26,4 @@
 
 [Repositorio chichiliaa](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 
+[Kill Switch y Snippets](https://github.com/St1v3n3223/Arduino/blob/7814df48c571d0aab9621c559567bf99a5db8f35/Kill%20Switch%20y%20Snippets.md)
