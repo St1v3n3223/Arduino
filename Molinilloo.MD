@@ -29,7 +29,7 @@ Intensidad = Voltaje/resistencia
 Mientras lo hemos montado hemos aprendido que .....
 
 ## Imágenes
-[IMolinillo](https://github.com/St1v3n3223/Arduino/blob/main/molinillo.ino)
+[IMolinillo](https://github.com/St1v3n3223/Arduino/blob/4801cbf77c5b89da9ec41c31a7941b7932bee574/Captura%20de%20pantalla%20de%202022-01-19%2010-50-37.png)
 ## Código
 
 [Enlace al código](https://github.com/St1v3n3223/Arduino/blob/main/molinillo.ino)
