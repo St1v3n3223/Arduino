@@ -1,13 +1,13 @@
 
-Energia = potencia>tiempo
+Energia = potencia > tiempo
 
-E = P·t
+E = P · t
 
 P = IV
 
 Potencia = Intensidad x Voltaje
 
-40mA/0,04A SV
+40mA / 0,04A SV
 
 I = U/R
 
