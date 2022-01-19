@@ -27,3 +27,7 @@
 [Repositorio chichiliaa](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 
 [Kill Switch y Snippets](https://github.com/St1v3n3223/Arduino/blob/7814df48c571d0aab9621c559567bf99a5db8f35/Kill%20Switch%20y%20Snippets.md)
+
+[Zootropo](https://github.com/St1v3n3223/Arduino/blob/767764d7289bbfd16a3573ee69641ac5508b0af2/Zootropo.MD)
+
+[Molinillo](https://github.com/St1v3n3223/Arduino/blob/06f1e139227739734bad97f2d3d3efb29569f6c0/Molinilloo.MD)
