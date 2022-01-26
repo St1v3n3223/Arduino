@@ -33,3 +33,5 @@
 [Molinillo](https://github.com/St1v3n3223/Arduino/blob/06f1e139227739734bad97f2d3d3efb29569f6c0/Molinilloo.MD)
 
 .[Cerrojo de la puerta](https://github.com/St1v3n3223/Arduino/blob/main/Cerrojo%20de%20puerta.MD)
+
+[Lámpara Tactil](https://github.com/St1v3n3223/Arduino/blob/d60273787028bd9af1d4393171024a2b745bb1b5/L%C3%A1mpara%20tactil.md)
