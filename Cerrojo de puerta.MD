@@ -2,6 +2,7 @@
 
 # Cerrojo de puerta
 
+Trabaje con mi compañero Hanzla
 ### FUNCIONAMIENTO
 
 El cerrojo de puerta tiene que reaccionar a los golpes en la mesa el boton lo cierra y los golpes lo abre(3 golpes)
