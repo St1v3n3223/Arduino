@@ -32,4 +32,4 @@
 
 [Molinillo](https://github.com/St1v3n3223/Arduino/blob/06f1e139227739734bad97f2d3d3efb29569f6c0/Molinilloo.MD)
 
-.[Cerrojo de la puerta].(https://github.com/St1v3n3223/Arduino/blob/4c413f4d4a60e811cdda04d84b6bfaa9a4ad27ee/Cerrojo%20de%20puerta.MD)
+.[Cerrojo de la puerta](https://github.com/St1v3n3223/Arduino/blob/main/Cerrojo%20de%20puerta.MD)
