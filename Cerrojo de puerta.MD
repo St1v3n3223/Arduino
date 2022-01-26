@@ -2,6 +2,19 @@
 
 # Cerrojo de puerta
 
+###FUNCIONAMIENTO
+
+El cerrojo de puerta tiene que reaccionar a los golpes en la mesa tambein cuyando cliquemos el boton se abre o se cierra
+
+los Leds indican el estado 
+
+1r. Rojo:indicará que una caja está cerrada con llave
+
+2n. Verde:indicara que la caja no esta cerrada con llave 
+
+3r. Amarillo:te indica si a recibido un golpe correcto en la puerta.
+
+
 ### Material que he sacado del libro
 
 El codigo y el montaje del circuito
