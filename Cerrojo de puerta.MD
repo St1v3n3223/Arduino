@@ -2,7 +2,7 @@
 
 # Cerrojo de puerta
 
-###FUNCIONAMIENTO
+### FUNCIONAMIENTO
 
 El cerrojo de puerta tiene que reaccionar a los golpes en la mesa tambein cuyando cliquemos el boton se abre o se cierra
 
