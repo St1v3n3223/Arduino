@@ -4,7 +4,7 @@
 
 ### FUNCIONAMIENTO
 
-El cerrojo de puerta tiene que reaccionar a los golpes en la mesa tambein cuyando cliquemos el boton se abre o se cierra
+El cerrojo de puerta tiene que reaccionar a los golpes en la mesa el boton lo cierra y los golpes lo abre(3 golpes)
 
 los Leds indican el estado 
 
@@ -22,6 +22,12 @@ El codigo y el montaje del circuito
 ## Proceso de montaje
 
 Mientras lo hemos montado hemos aprendido que no siempre hay que hacerlo igual al libro porque puede presentar algunos fallos
+
+Copiamos el link.
+
+Como obtener el link: Vamos a arduino a Archivos-Ejemplos-La opcion 10_StartedKid_BasicKid-opcion 12_knockLock.
+
+El codigo del libro tiene un bug.
 
 ## Imágenes
 ![Cerrojo de puerta](https://github.com/St1v3n3223/Arduino/blob/main/WhatsApp%20Image%202022-01-26%20at%2010.24.18.jpeg?raw=true)
