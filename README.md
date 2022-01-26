@@ -34,4 +34,4 @@
 
 [Cerrojo de la puerta](https://github.com/St1v3n3223/Arduino/blob/main/Cerrojo%20de%20puerta.MD)
 
-[Lámpara Tactil](https://github.com/St1v3n3223/Arduino/blob/d60273787028bd9af1d4393171024a2b745bb1b5/L%C3%A1mpara%20tactil.md)
+[Lámpara Tactil](https://github.com/St1v3n3223/Arduino/blob/dc91fa263505d53e02a54e632449e9c5829fe1b6/L%C3%A1mpara%20tactil.md)
