@@ -33,4 +33,6 @@ El codigo del libro tiene un bug.
 ![Cerrojo de puerta](https://github.com/St1v3n3223/Arduino/blob/main/WhatsApp%20Image%202022-01-26%20at%2010.24.18.jpeg?raw=true)
 ## Código
 
-[Enlace al código](https://github.com/Hanzla55/Arduino/blob/46d121c2da850222e421e0e098c01c2941559871/CERREJO_DE_PUERTA.ino)
+[Enlace al código copiado](https://github.com/Hanzla55/Arduino/blob/46d121c2da850222e421e0e098c01c2941559871/CERREJO_DE_PUERTA.ino)
+
+[Enlace al código por mi](https://github.com/St1v3n3223/Arduino/blob/f1d3cd33e764b15d73e32de2e0520c899134ec09/Codigo.ino)
