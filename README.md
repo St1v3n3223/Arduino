@@ -34,3 +34,5 @@
 [Joystick](https://github.com/St1v3n3223/Arduino/blob/main/joystick.MD)
 
 [Sensor humedad y temperatura](https://github.com/St1v3n3223/Arduino/blob/b82a41e7360d695f6f0e7e69805d84beccace25a/Sensor%20de%20temperatura%20y%20humedad.MD)
+
+[Instrumento de teclado](https://github.com/St1v3n3223/Arduino/blob/a43f5452af51bcfd85b3627710ddd29af04b6cf6/Instrumento%20de%20teclado.MD)
