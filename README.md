@@ -3,20 +3,15 @@
 
 ## Estos són mis enlaçes.
 
-![Circuitos](https://github.com/St1v3n3223/Arduino/blob/main/Circuitos)
+[Circuitos](https://github.com/St1v3n3223/Arduino/blob/main/Circuitos)
 
+[Primera prueba](https://github.com/St1v3n3223/Arduino/blob/main/Primera%20prueba.md)
 
-![Primera prueba](https://github.com/St1v3n3223/Arduino/blob/main/Primera%20prueba.md)
+[Arquitectura de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md)
 
+[Proyecto](https://github.com/St1v3n3223/Arduino/blob/main/Proyecto.md)
 
-![Arquitectura de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md)
-
-
-
-![Proyecto](https://github.com/St1v3n3223/Arduino/blob/main/Proyecto.md)
-
-
-![Medidor de amor](https://github.com/St1v3n3223/Arduino/blob/main/Medidor%20de%20amor.md)
+[Medidor de amor](https://github.com/St1v3n3223/Arduino/blob/main/Medidor%20de%20amor.md)
 
 [Lampara varioscolores](https://github.com/St1v3n3223/Arduino/blob/main/Lampara%20varios%20colores.MD)
 
@@ -35,3 +30,5 @@
 [Cerrojo de la puerta](https://github.com/St1v3n3223/Arduino/blob/main/Cerrojo%20de%20puerta.MD)
 
 [Lámpara Tactil](https://github.com/St1v3n3223/Arduino/blob/dc91fa263505d53e02a54e632449e9c5829fe1b6/L%C3%A1mpara%20tactil.md)
+
+[Joystick](https://github.com/St1v3n3223/Arduino/blob/main/joystick.MD)
