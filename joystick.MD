@@ -7,7 +7,7 @@ Con el piezo haremos musica que cuando movamos el joystick  la musica cambie.
 
 ## Proceso de montaje
 Primero lo montamos basandonos en unas fotografias sacadas de un repositorio del profesor y el codigo tambien, tuvimos algunos problemas en el codigo pero lo arreglamos.
-En el codigo tuvimos el problema de que habia que cambiar de posicion dos numeros.
+En el codigo tuvimos el problema de que habia que cambiar DigitalRead a AnalogRead.
 ## Imágenes
 ![joystick](https://github.com/St1v3n3223/1er-Trimestre/blob/37cba7a43616c5e94d251392e592e30d3704f4d9/WhatsApp%20Image%202022-02-02%20at%2010.06.47.jpeg)
 
