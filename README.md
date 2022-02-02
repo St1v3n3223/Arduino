@@ -32,3 +32,5 @@
 [Lámpara Tactil](https://github.com/St1v3n3223/Arduino/blob/dc91fa263505d53e02a54e632449e9c5829fe1b6/L%C3%A1mpara%20tactil.md)
 
 [Joystick](https://github.com/St1v3n3223/Arduino/blob/main/joystick.MD)
+
+[Sensor humedad y temperatura](https://github.com/St1v3n3223/Arduino/blob/b82a41e7360d695f6f0e7e69805d84beccace25a/Sensor%20de%20temperatura%20y%20humedad.MD)
