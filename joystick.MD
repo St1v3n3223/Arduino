@@ -16,5 +16,7 @@ Primero lo montamos basandonos en unas fotografias sacadas de un repositorio del
 
 [Enlace al código ](https://github.com/d-prieto/arduinoCourse/blob/main/joysticktest.ino)
 
-[Enlace para codigo piezo](https://github.com/Hanzla55/Arduino/blob/c1f8d44c79ee54a9f0c2294a30087094b3b5e040/JoyStick.md)
 Sacado del profesor.
+
+[Enlace para codigo piezo](https://github.com/Hanzla55/Arduino/blob/c1f8d44c79ee54a9f0c2294a30087094b3b5e040/JoyStick.md)
+
