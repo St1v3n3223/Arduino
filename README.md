@@ -39,4 +39,4 @@
 
 [Bola de cristal](https://github.com/St1v3n3223/Arduino/blob/7dc214d2db0a881f06c1e55efe753f4ab35b7b59/Bola%20de%20cristal.md)
 
-[Lser y onshape](https://github.com/St1v3n3223/1er-Trimestre/blob/b41c8f5a0d65e186affa914fa5d847684570d7e2/Laser%20y%20oneShape.MD)
+[Laser y onshape](https://github.com/St1v3n3223/1er-Trimestre/blob/b41c8f5a0d65e186affa914fa5d847684570d7e2/Laser%20y%20oneShape.MD)
